@@ -13,9 +13,9 @@ This repo serves as my organized workspace for all course requirements, includin
 
 ## 👤 Student Information
 
-- **Name:** Rhysa Pabaira Intendencia
-- **Course/Section:** BS Information Technology [4G]
-- **Instructor:** [Jenkielyn Torres]
+- **Name:** RHYSA PABAIRA INTENDENCIA
+- **Course/Section:** BS Information Technology [CCM101-4G]
+- **Instructor:** [JENKIELYN TORRES]
 - **School Year:** 2026-2027
 
 ## 📂 Repository Structure
@@ -36,10 +36,3 @@ cloud-computing-course/
 - Deployment Models (Public, Private, Hybrid, Community)
 - Version Control with Git & GitHub
 - Cloud Infrastructure Management
-
-## 💡 Markdown Tips
-
-- Use `#` for headings.
-- Use `*` or `-` for bullet lists.
-- Use `**text**` for **bold** text.
-- Use `[link text](url)` for hyperlinks.
