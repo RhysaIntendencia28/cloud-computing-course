@@ -1,4 +1,4 @@
-# CCM101-RhysaIntendencia
+# CCM101-rhysaintendencia
 # Laboratory 01 - Welcome to the Cloud
 
 ## Mission Overview
