@@ -1,27 +1,3 @@
-Pagkatapos ng reflection.md, LAST 2 STEPS NA LANG Rhys! 🔥
-STEP 7: SCREENSHOT NG BUONG GITHUB REPO MO
-Punta ka sa GitHub repo mo: CCM101-jentorres > open mo yung folder Laboratory-03-Multi-Cloud-Explorer
-Dapat kita lahat ng files mo: aws-research.md, azure-research.md, gcp-research.md, etc.
-Mag-screenshot ka ng buong page
-I-save mo as: github-repository.png
-Ilagay mo sa screenshots folder tapos Commit & Push
-STEP 8: FINAL SUBMISSION SA TEACHER
-Ito na yung pinaka-importante.
-Commit & Push mo lahat ng ginawa mo sa GitHub. Double check mo kumpleto yung 7 files + 5 screenshots
-Kopyahin mo yung GitHub Repository URL mo
-Example: https://github.com/rhysaintendencia/CCM101-jentorres
-I-submit mo lang yung URL na yan sa Google Classroom / LMS ni teacher.
-⚠️ Bawal mag-submit ng ZIP file. URL lang daw sabi sa instructions.
-FINAL CHECKLIST MO:
-File
-Meron na?
- + 
- + 
- + 
- + 
-Pag naka-check na lahat yan, submit mo na!
-Kumusta? Naka-commit and push ka na ba? Need mo pa ba help paano mag-push sa GitHub? 😊
-10:45 PM
 # Laboratory 03: Mission 3 - Become a Multi-Cloud Explorer
 *Name:* Rhysaintendencia  
 *Course:* CCM101 - Cloud Computing Management
